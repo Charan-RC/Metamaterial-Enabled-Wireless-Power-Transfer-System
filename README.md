@@ -16,10 +16,6 @@ Simulations are performed using **ANSYS HFSS** and **MATLAB**.
 - **MATLAB** — Data analysis & optimization
 - **Metamaterial Design** — SRRs, ferrite slabs
 
-## 📂 Repository Structure
-- `/docs` — Research documents & diagrams
-- `/simulations` — ANSYS & MATLAB simulation files
-- `/hardware` — Coil and metamaterial prototype designs
 
 ## 📊 Applications
 - Electric Vehicle wireless charging
